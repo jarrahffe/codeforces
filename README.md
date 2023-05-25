@@ -1,2 +1,2 @@
-# codeforces-800
-all of my codeforces solutions for elo 800
+# codeforces
+all of my codeforces solutions for each elo bracket
