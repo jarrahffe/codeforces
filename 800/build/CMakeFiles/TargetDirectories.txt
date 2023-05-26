@@ -1,5 +1,0 @@
-/Users/jarjar/Documents/UNSW/codeforces/800/build/CMakeFiles/catch2_main.dir
-/Users/jarjar/Documents/UNSW/codeforces/800/build/CMakeFiles/run.dir
-/Users/jarjar/Documents/UNSW/codeforces/800/build/CMakeFiles/test.dir
-/Users/jarjar/Documents/UNSW/codeforces/800/build/CMakeFiles/edit_cache.dir
-/Users/jarjar/Documents/UNSW/codeforces/800/build/CMakeFiles/rebuild_cache.dir
