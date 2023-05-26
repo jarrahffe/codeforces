@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/jarjar/Documents/UNSW/codeforces/800/build",
+  "command": "/usr/bin/clang++  -I/Users/jarjar/Documents/UNSW/codeforces/800/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-missing-braces -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /Users/jarjar/Documents/UNSW/codeforces/800/lib/catch2_main.cpp",
+  "file": "/Users/jarjar/Documents/UNSW/codeforces/800/lib/catch2_main.cpp"
+},
+{
+  "directory": "/Users/jarjar/Documents/UNSW/codeforces/800/build",
+  "command": "/usr/bin/clang++  -I/Users/jarjar/Documents/UNSW/codeforces/800/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wno-missing-braces -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/run.dir/src/main.cpp.o -c /Users/jarjar/Documents/UNSW/codeforces/800/src/main.cpp",
+  "file": "/Users/jarjar/Documents/UNSW/codeforces/800/src/main.cpp"
+}
+]
